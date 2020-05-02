@@ -1,0 +1,24 @@
+{
+"products" : [
+[{"id":1,"nama":"Japanese macaque","catagory":"Crimson"},
+{"id":2,"nama":"Tortoise, burmese black mountain","catagory":"Violet"},
+{"id":3,"nama":"Three-banded plover","catagory":"Blue"},
+{"id":4,"nama":"Red-cheeked cordon bleu","catagory":"Turquoise"},
+{"id":5,"nama":"Zorro, azara's","catagory":"Red"},
+{"id":6,"nama":"Dove, ring","catagory":"Aquamarine"},
+{"id":7,"nama":"Asian openbill","catagory":"Maroon"},
+{"id":8,"nama":"Baboon, savanna","catagory":"Puce"},
+{"id":9,"nama":"Heron, black-crowned night","catagory":"Green"},
+{"id":10,"nama":"African jacana","catagory":"Orange"},
+{"id":11,"nama":"Peccary, white-lipped","catagory":"Goldenrod"},
+{"id":12,"nama":"Blue catfish","catagory":"Violet"},
+{"id":13,"nama":"American black bear","catagory":"Khaki"},
+{"id":14,"nama":"Egyptian viper","catagory":"Fuscia"},
+{"id":15,"nama":"Seal, northern elephant","catagory":"Red"},
+{"id":16,"nama":"Water moccasin","catagory":"Maroon"},
+{"id":17,"nama":"Sambar","catagory":"Puce"},
+{"id":18,"nama":"Guerza","catagory":"Orange"},
+{"id":19,"nama":"Onager","catagory":"Yellow"},
+{"id":20,"nama":"Ant (unidentified)","catagory":"Green"}]
+]
+}
